@@ -1,6 +1,2 @@
-.gitignore.swo
+/bin/
 .gitignore.swp
-.git
-.settings
-.classpath 
-.project
